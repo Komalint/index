@@ -25,3 +25,9 @@ git branch branch-name
 git checkout komal-feature
 now check
 to make second commit
+//to merge it
+git checkout main-------------
+git branch------------------------------together {git checkout -b branchname}
+git merge origin/komal-feature
+git push
+git log --oneline
