@@ -5,3 +5,22 @@ hey this an important step after adding ok
 
 
 
+git remote add <origin> url(copy it from the new repository
+then)
+git push -u origin main->(branch)
+SSH Key
+private and public
+
+so 1 make the change then
+2 git status
+3 git diff
+4 git add
+5 git commit
+6 git push
+git reset --hard (id of head)
+git push -f(force)
+
+git branch branch-name
+//git branchthen to change branch --- 
+git checkout komal-feature
+now check
